@@ -11,7 +11,7 @@ menu:
   About: about
 rss: /atom.xml
 
-since: 2013
+since: 2017
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -33,7 +33,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/home-bg.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+  url: [https://source.unsplash.com/collection/954550/1920x1080]
 
 home_logo_image:
   enable: false
@@ -42,7 +42,7 @@ home_logo_image:
 
 
 # AboutPage background
-about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+about_big_image: [https://source.unsplash.com/collection/954550/1920x1080]
 
 
 # Archive pagination
@@ -112,7 +112,7 @@ highlight_theme: default
 # Article theme color
 # Available value:
 #    random | orange | blue | red | green | black
-theme_color: random
+theme_color: black
 
 
 # display widgets at the bottom of index pages (pagination == 2)
@@ -161,7 +161,7 @@ show_busuanzi_view_counts: true
 
 # donation button
 donate:
-    enable: true
+    enable: false
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
     wechatImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/WeChanQR.png
     alipayImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/AliPayQR.jpg

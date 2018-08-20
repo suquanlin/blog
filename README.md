@@ -1,3 +1,3 @@
 # blog
 
-[Sue's Blog](https://suquanlin.github.io)
+[Shero's Blog](https://suquanlin.github.io)
