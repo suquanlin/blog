@@ -1,8 +1,7 @@
 ---
 date: 2018-08-07 14:58:08
-comments: true
 ---
 
-# Sue
+# Shero
 
-我是Sue，一枚Android程序媛。
+我是Shero，一枚Android程序媛。

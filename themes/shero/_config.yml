@@ -61,7 +61,7 @@ fancybox: true
 
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - social
 - category
@@ -89,7 +89,7 @@ search:
 gentie_productKey: #your-gentie-product-key
 duoshuo_shortname: 
 disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+livere_shortname: 
 uyan_uid: 
 wumii: 
 
@@ -98,7 +98,7 @@ wumii:
 # Available value:
 #    default | gray | normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: default
+highlight_theme: night
 
 
 # Article theme color
